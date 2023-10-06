@@ -1,0 +1,51 @@
+* {
+    cursor: crosshair;
+    font-family: 'Lato', sans-serif;
+    user-select: none;
+}
+
+body {
+    background-color: bisque;
+    display: block;
+}
+
+element {
+    color: red;
+    display: block;
+    font-size: 35px;
+    text-align: left;
+
+}
+
+
+.container {
+    width: 500px;
+    border: 3px solid black;
+    border-radius: 6px;  
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
+.type {
+    margin-left: 20px;
+    font-size: 175%;
+}
+
+li {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+#One {
+    background-color: aqua;
+
+}
+
+#Two {
+    background-color: crimson;
+}
+
+#Three {
+    background-color: seagreen;
+}
